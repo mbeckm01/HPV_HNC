@@ -2,7 +2,7 @@
 Public dataset repository for HNC-HPV project
 
 If you use this data please cite our group: <br />
-Oral Medical Research Lab, Atrium Health, Charlotte, NC 28203
+Oral Medicine Research Lab, Atrium Health, Charlotte, NC 28203
 <br />
 <br />
 Pxx: De-identified patient number (e.g. P01, P02, etc.) <br />
